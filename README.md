@@ -4,7 +4,7 @@ Code for the master's thesis comparing feature extraction methods for unsupervis
 
 ## Data
 
-The BNF cipher dataset used in this study is not publicly available. It can be obtained from the [DECRYPT Project](https://descrypt.org/). After obtaining the data, place page images in `img/` and JSON annotation files in `BNF3029-92/`.
+The BNF cipher dataset used in this study is not publicly available. It can be obtained from the [DESCRYPT Project](https://descrypt.org/). After obtaining the data, place page images in `img/` and JSON annotation files in `BNF3029-92/`.
 
 ## Pipeline
 
